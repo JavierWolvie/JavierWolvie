@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated wave header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=Bior%20Akau%20Alier&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20|%20Power%20BI%20|%20SQL%20|%20Python%20|%20Excel&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?
 
   <!-- Multi-line typing animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=1CF7F7&center=true&width=600&height=60&lines=Hi+there+👋,+I'm+Bior+Akau+Alier;Turning+Curiosity+into+Impact+with+Data;Let's+analyze+and+make+a+difference!" alt="Typing Animation" />
