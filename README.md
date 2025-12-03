@@ -2,7 +2,6 @@
 
 **Aspiring Data Analyst**  
 Power BI | SQL | Python | Excel
-
 ---
 
 💡 Passionate about turning raw data into actionable insights  
