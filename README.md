@@ -1,4 +1,4 @@
-# Alier Akuak Bior
+#  Bior Akau Alier
 
 **Aspiring Data Analyst**  
 Power BI | SQL | Python | Excel
